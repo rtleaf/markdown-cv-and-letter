@@ -1,0 +1,221 @@
+---
+author: Robert T. Leaf
+output:
+  pagedown::html_resume:
+    self_contained: true
+---
+
+Aside
+================================================================================
+
+
+![RT Leaf](http://gcrl.usm.edu/cv/leaf.robert/leaf.robert.photo.source.jpg)
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> robert.t.leaf@gmail.com
+- <i class="fa fa-github"></i> [github.com/rtleaf](https://github.com/rtleaf)
+- <i class="fa fa-chrome"></i> [leaffisherylab.com](https://www.leaffisherylab.com)
+- <i class="fa fa-phone"></i> 860.830.9848
+- <i class="fa fa-map-marker"></i> Ocean Springs, MS, USA
+
+Core Compentencies {#skills}
+--------------------------------------------------------------------------------
+- R and Matlab Programming
+- Azure ML
+- Data Mining and Analysis 
+- Data Visualization
+- Machine Learning
+- Forecasting and Risk Assessment
+- Bayesian and Frequentist Modeling
+- Project Management
+- Written and Verbal Communication 
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+This resume was made with the R package **pagedown**.
+
+Main
+================================================================================
+
+Robert T. Leaf {#title}
+--------------------------------------------------------------------------------
+
+### Analyst and modeler looking for a `r tolower(paste0(position.title))` position
+
+I am a quantitative scientist who excels at analyzing data, statistical modeling, and managing and timely completion of complex projects. Recognized for strong technical and analytics skills with experience in delivering operational efficiencies. Experience with collaborating with partners and stakeholders to create insights and manage risk. 
+
+Professional Experience {data-icon=briefcase}
+--------------------------------------------------------------------------------
+
+### Tenure-Track Assistant Professor
+
+School of Ocean Sciences and Engineering, Univ. of So. Mississippi
+
+N/A
+
+2012 - Present
+
+- Leader of quantitative laboratory focused on conservation, assessment, and management of natural resources.
+- Responsible for competitive research funds totaling ~$2 million.
+- Financially supported and mentored a research team of 4 to 8 members.
+
+### Independent Consultant
+
+Statistical modeling and risk assessment
+
+N/A
+
+2014 - Present
+
+- Contractor to national and international companies (primarily fishing industry) and sustainability organizations.
+
+### Post-Doctoral Researcher
+
+National Oceanographic and Atmospheric Administration
+
+N/A
+
+2010 - 2012
+
+- Investigated population dynamics of Northeast US haddock stock (Fishery value in excess of $11 million dollars)
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### PhD, Fisheries and Wildlife Science
+Virginia Tech, Blacksburg, VA
+
+N/A
+
+2005 - 2010
+
+### MS, Marine Science
+
+San Jose State University, San Jose, CA
+
+N/A
+
+2002 - 2005
+
+### BA, Biology
+
+University of California at Santa Cruz, Santa Cruz, CA
+
+N/A
+
+1993 - 1997
+
+Workshop and Symposia Attended {data-icon=certificate}
+--------------------------------------------------------------------------------
+### Data Science Dojo
+Data Science and Data Engineering
+
+Austin, TX
+
+2018
+
+### Open Data Science Conference
+R and the Tidyverse
+
+Boston, MA
+
+2017
+
+### National Science Foundation 
+Bayesian Modeling 
+
+Fort Collins, CO
+
+2016
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### [Introduction to R Language](https://leaffisherylab.com/class-information/r-shortcourse/)
+
+Developed and taught R Programming short course for scientists and engineers. Focused on syntax and commonly used analytical and visualization approaches. 
+
+N/A
+
+2014 - Present
+
+### [Biometry for the Coastal Sciences](https://leaffisherylab.com/class-information/biometry-for-coastal-sciences/)
+
+Developed and taught graduate level statistics at Univ. of So. Mississippi. Focused on experimental design, hypothesis testing, statistical power. 
+
+N/A
+
+2012 - 2018
+
+### [Quantitative Fishery Management](https://leaffisherylab.com/class-information/quantitative-fisheries/)
+
+Developed and taught graduate-level resource modeling class at Univ. of So. Mississippi. Curriculum focused on simulation and statistical modeling.
+
+N/A
+
+2012 - 2017
+
+### Other courses taught
+
+Graduate-level Courses at Univ. of So. Mississippi
+
+N/A
+
+2012 - 2017
+
+- [Professional Skills](https://leaffisherylab.com/class-information/professional-skills/)
+- Individual-Based Simulation Modeling
+
+Technical Communication {data-icon=file}
+--------------------------------------------------------------------------------
+### Highlights
+
+[Scholarly Contributions](https://scholar.google.com/citations?view_op=list_works&hl=en&user=psmasQUAAAAJ)
+
+N/A
+
+Career
+
+- Authored or co-authored 38 peer-reviewed scientific papers.
+- Delivered over 90 technical talks at international and national conferences.
+- Lead or co-Lead analyst for 7 quantitative peer-reviewed fish stock assessments.
+
+### Selected Representative Publications
+
+Oshima, M. and **R.T. Leaf**. 
+
+N/A
+
+2018
+
+Understanding the structure and resilience of trophic dynamics in the northern Gulf of Mexico using network analysis. Bulletin of Marine Science.
+
+- Quantitative methods used were social network analysis and simulation modeling.
+
+### 
+
+**Leaf, R.T.**, Trushenski, J., Andres, M.J., Brown-Peterson, N. 
+
+N/A
+
+2018
+
+Temporal dynamics of lipid and fatty acid characteristics of Gulf Menhaden in the northern Gulf of Mexico. Journal of Regional Marine Science.
+
+- Quantitative methods used were cluster analysis, non-parametric hypothesis testing, forecasting.
+
+
+### 
+
+Adams, G.D., **Leaf, R.T.**, Ballenger, J.C., Arnott, S.A., and C.J. McDonough. 
+
+N/A
+
+2017
+
+Spatial variability in the growth of Sheepshead in the Southeast US: Implications for assessment and management. Fisheries Research.
+
+- Quantitative methods used were Bayesian modeling and data mining.

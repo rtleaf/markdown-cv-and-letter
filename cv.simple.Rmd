@@ -1,0 +1,71 @@
+---
+output: word_document
+---
+Name: Robert T. Leaf  
+Email: robert.t.leaf@gmail.com  
+Website: www.leaffisherylab.com  
+Phone 860-830-9848  
+Address: 2812 Belmont Dr. Ocean Springs, MS, 39564, USA  
+  
+Skills: R and Matlab Programming, Azure ML, Data Mining and Analysis, Data Visualization, Machine Learning, Forecasting and Risk Assessment, Bayesian and Frequentist Modeling, Project Management, Written and Verbal Communication
+  
+Seeking a `r tolower(paste0(position.title))` position
+  
+Professional Experience  
+  
+Tenure-Track Assistant Professor  
+School of Ocean Sciences and Engineering, Univ. of So. Mississippi  
+From: 09/2012  
+To: Present  
+Duties: Leader of quantitative laboratory focused on conservation, assessment, and management of natural resources. Responsible for competitive research funds totaling ~$2 million. Financially supported and mentored a research team of 4 to 8 members.  
+
+Independent Consultant  
+Statistical modeling and risk assessment  
+From: 06/2014  
+To: Present  
+Duties: Contractor to national and international companies (primarily fishing industry) and sustainability organizations.  
+  
+Post-Doctoral Researcher  
+National Oceanographic and Atmospheric Administration  
+From: 06/2010  
+To: 07/2012  
+Duties: Investigated population dynamics of Northeast US haddock stock (Fishery value in excess of $11 million dollars)  
+  
+Education  
+Degree: PhD  
+Major: Fisheries and Wildlife Science  
+University: Virginia Tech  
+From: 09/2005  
+To: 08/2018  
+  
+Degree: MS  
+Major: Marine Science  
+University: San Jose State University  
+From: 09/2002  
+To: 06/2005  
+  
+Degree: BA  
+Major: Biology  
+University: University of California at Santa Cruz  
+From: 09/1993  
+To: 05/1997  
+  
+Teaching Experience:  
+Introduction to R Language  
+Biometry for the Coastal Sciences  
+Quantitative Fishery Management  
+Professional Skills  
+Individual-Based Simulation Modeling  
+  
+Technical Communication  
+Authored or co-authored 38 peer-reviewed scientific papers.  
+Delivered over 90 technical talks at international and national conferences.  
+Lead or co-Lead analyst for 7 quantitative peer-reviewed fish stock assessments.  
+  
+Selected Representative Publications  
+  
+Oshima, M. and R.T. Leaf. 2018. Understanding the structure and resilience of trophic dynamics in the northern Gulf of Mexico using network analysis. Bulletin of Marine Science.  
+  
+Leaf, R.T., Trushenski, J., Andres, M.J., Brown-Peterson, N. 2018. Temporal dynamics of lipid and fatty acid characteristics of Gulf Menhaden in the northern Gulf of Mexico. Journal of Regional Marine Science.  
+  
+Adams, G.D., Leaf, R.T., Ballenger, J.C., Arnott, S.A., and C.J. McDonough. 2017. Spatial variability in the growth of Sheepshead in the Southeast US: Implications for assessment and management. Fisheries Research.  
