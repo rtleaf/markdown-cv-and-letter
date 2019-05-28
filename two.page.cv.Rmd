@@ -16,8 +16,7 @@ Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> robert.t.leaf@gmail.com
-- <i class="fa fa-github"></i> [github.com/rtleaf](https://github.com/rtleaf)
-- <i class="fa fa-chrome"></i> [leaffisherylab.com](https://www.leaffisherylab.com)
+- <i class="fa fa-chrome"></i> [github.com/rtleaf](https://github.com/rtleaf/rtleaf.github.io)
 - <i class="fa fa-phone"></i> 860.830.9848
 - <i class="fa fa-map-marker"></i> Ocean Springs, MS, USA
 
